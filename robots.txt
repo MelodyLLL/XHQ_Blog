@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://mister-hope.github.io/XHQ_Blog/sitemap.xml
+Sitemap: https://melodylll.github.io/XHQ_Blog/sitemap.xml

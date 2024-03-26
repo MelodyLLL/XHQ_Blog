@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://melodylll.github.io/XHQ_Blog/sitemap.xml
+Sitemap: https://melodylll.github.io/sitemap.xml

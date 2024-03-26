@@ -4,11 +4,11 @@ import { enSidebar, zhSidebar } from './sidebar/index.js';
 import { MR_HOPE_AVATAR } from './logo.js';
 
 export default hopeTheme({
-	hostname: 'https://mister-hope.github.io',
+	hostname: 'melodylll.github.io',
 
 	author: {
 		name: 'Mr.Hope',
-		url: 'https://mister-hope.com',
+		url: 'melodylll.github.io',
 	},
 
 	iconAssets: 'fontawesome-with-brands',

@@ -7,14 +7,14 @@ export default hopeTheme({
 	hostname: 'melodylll.github.io',
 
 	author: {
-		name: 'Mr.Hope',
+		name: 'xiaohongqian',
 		url: 'melodylll.github.io',
 	},
 
 	iconAssets: 'fontawesome-with-brands',
 
-	logo: 'https://theme-hope-assets.vuejs.press/logo.svg',
-
+	logo: '/avator.png',
+  favicon: "/avator.png",
 	// repo: 'vuepress-theme-hope/vuepress-theme-hope',
 
 	docsDir: 'src',

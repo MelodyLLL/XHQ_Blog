@@ -3,8 +3,9 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-# heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-bgImage: /assets/images/bg1.jpg
+# heroImage: /avator.png
+# logo: /avator.png
+# bgImage: /assets/images/bg1.jpg
 heroText: 你博客的名称
 heroFullScreen: true
 tagline: 你可以在这里放置你的口号与标语
@@ -14,7 +15,7 @@ projects:
   #   desc: 项目详细描述
   #   link: https://你的项目链接
 
-footer: 自定义你的页脚文字
+footer: ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 ---
 
 <!-- 这是一个博客主页的案例。

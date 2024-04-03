@@ -88,13 +88,13 @@ export default hopeTheme(
 				// sidebar
 				sidebar: zhSidebar,
 
-				footer: '默认页脚',
+				footer: '',
 
 				displayFooter: true,
 
 				blog: {
-					description: '一个前端开发者',
-					intro: '/zh/intro.html',
+					description: '世界上最最爱炮炮🐱',
+					intro: '/intro.html',
 					articleInfo: [],
 					timeline: '光阴似箭，日月如梭',
 				},
@@ -128,7 +128,7 @@ export default hopeTheme(
 			// },
 
 			components: {
-				components: ['Badge', 'VPCard'],
+				components: ['Badge', 'VPCard', 'VidStack'],
 			},
 
 			// all features are enabled for demo, only preserve features you need here

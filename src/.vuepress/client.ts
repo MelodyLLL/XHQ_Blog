@@ -7,7 +7,7 @@ import "vuepress-theme-hope/presets/left-blog-info.scss";
 export default defineClientConfig({
   setup() {
     setupRunningTimeFooter(
-      new Date("2024-01-09"),
+      new Date("2024-01-31"),
       {
         "/": "已运行 :day 天 :hour 小时 :minute 分钟 :second 秒",
       },

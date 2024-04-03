@@ -2,9 +2,9 @@
 home: true
 layout: BlogHome
 icon: home
-title: 我的主页
+title: My Home
 # heroImage: /avator.png
-bgImage: /assets/images/bg1.jpg
+bgImage: /assets/images/bg1.png
 heroText: 你博客的名称
 heroFullScreen: true
 tagline: 你可以在这里放置你的口号与标语

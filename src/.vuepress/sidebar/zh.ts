@@ -17,6 +17,8 @@ export const zhSidebar = sidebar({
     //   children: "structure",
     // },
     "intro",
+    "intro0",
+
     // {
     //   text: "幻灯片",
     //   icon: "person-chalkboard",

@@ -14,7 +14,7 @@ export default defineUserConfig({
 		// },
 		'/': {
 			lang: 'zh-CN',
-			title: '博客演示',
+			title: '世界上最最爱炮炮🐈',
 			description: 'vuepress-theme-hope 的博客演示',
 		},
 	},

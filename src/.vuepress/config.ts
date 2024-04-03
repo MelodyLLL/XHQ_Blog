@@ -1,7 +1,9 @@
-import { getDirname, path } from "vuepress/utils";
+import { getDirname, path } from 'vuepress/utils';
 import { defineUserConfig } from 'vuepress';
+import { viteBundler } from "@vuepress/bundler-vite";
 import theme from './theme.js';
 const __dirname = getDirname(import.meta.url);
+
 export default defineUserConfig({
 	base: '/',
 	locales: {
@@ -16,15 +18,14 @@ export default defineUserConfig({
 			description: 'vuepress-theme-hope 的博客演示',
 		},
 	},
-
+	theme,
+  bundler: viteBundler(),
 	alias: {
 		'@theme-hope/modules/blog/components/BlogHero': path.resolve(
 			__dirname,
 			'./components/BlogHero.vue'
 		),
 	},
-
-	theme,
 
 	// Enable it with pwa
 	// shouldPrefetch: false,

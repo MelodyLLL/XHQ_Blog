@@ -14,8 +14,8 @@ export default hopeTheme(
 
 		iconAssets: 'fontawesome-with-brands',
 
-		logo: '/avator.png',
-		favicon: '/avator.png',
+		logo: 'https://cdn.jsdelivr.net/gh/MelodyLLL/cdnImg/img/avator.png',
+		favicon: 'https://cdn.jsdelivr.net/gh/MelodyLLL/cdnImg/img/avator.png',
 		// repo: 'vuepress-theme-hope/vuepress-theme-hope',
 
 		docsDir: 'src',

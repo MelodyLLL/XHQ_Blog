@@ -1,6 +1,6 @@
 ---
 icon: circle-info
-cover: /assets/images/cover3.jpg
+cover: https://cdn.jsdelivr.net/gh/MelodyLLL/cdnImg/img/cover3.jpg
 category:
   - 个人介绍
 tag:
@@ -18,15 +18,15 @@ sticky: true
 
 ## 爱炮炮 🐱
 
-![炮弟](/assets/images/bg4.jpg)
+![炮弟](https://cdn.jsdelivr.net/gh/MelodyLLL/cdnImg/img/bg4.jpg)
 
 ## 爱旅行 🚄
 
-![在青岛](/assets/images/bg2.jpg)
+![在青岛](https://cdn.jsdelivr.net/gh/MelodyLLL/cdnImg/img/bg2.jpg)
 
 ## 爱臭美
 
-![自拍](/assets/images/bg3.jpg =300x)
+![自拍](https://cdn.jsdelivr.net/gh/MelodyLLL/cdnImg/img/bg3.jpg =300x)
 
-![炫耀美甲💅](/assets/images/bg5.jpg =300x)
+![炫耀美甲💅](https://cdn.jsdelivr.net/gh/MelodyLLL/cdnImg/img/bg5.jpg =300x)
 

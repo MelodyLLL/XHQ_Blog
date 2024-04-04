@@ -4,8 +4,9 @@ layout: BlogHome
 icon: home
 title: My Home
 # heroImage: /avator.png
-bgImage: /assets/images/bg1.png
-heroText: 你博客的名称
+bgImage: https://cdn.jsdelivr.net/gh/MelodyLLL/cdnImg/img/bg1.png
+
+heroText: love xiao hong qian ❤️
 heroFullScreen: true
 tagline: 你可以在这里放置你的口号与标语
 # projects:

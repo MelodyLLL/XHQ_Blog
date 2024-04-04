@@ -1,6 +1,6 @@
 ---
 icon: circle-info
-cover: /assets/images/cover2.jpg
+cover: https://cdn.jsdelivr.net/gh/MelodyLLL/cdnImg/img/cover2.jpg
 category:
   - 大帅比
 tag:

@@ -1,6 +1,6 @@
 import { getDirname, path } from 'vuepress/utils';
 import { defineUserConfig } from 'vuepress';
-import { viteBundler } from "@vuepress/bundler-vite";
+import { viteBundler } from '@vuepress/bundler-vite';
 import theme from './theme.js';
 const __dirname = getDirname(import.meta.url);
 
@@ -14,16 +14,20 @@ export default defineUserConfig({
 		// },
 		'/': {
 			lang: 'zh-CN',
-			title: '世界上最最爱炮炮🐈',
+			title: '世界上最最爱炮炮 🐈',
 			description: 'vuepress-theme-hope 的博客演示',
 		},
 	},
 	theme,
-  bundler: viteBundler(),
+	bundler: viteBundler(),
 	alias: {
 		'@theme-hope/modules/blog/components/BlogHero': path.resolve(
 			__dirname,
 			'./components/BlogHero.vue'
+		),
+		'@theme-hope/modules/navbar/components/Navbar': path.resolve(
+			__dirname,
+			'./components/NavBar.vue'
 		),
 	},
 
